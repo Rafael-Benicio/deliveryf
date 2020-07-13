@@ -1,0 +1,112 @@
+html, body{
+	margin: 0px;
+	padding: 0px;
+	background-color: rgb(247,247,247);
+
+}
+
+#logo{
+	position: relative;
+	left: 1%;
+}
+
+#main{
+	text-decoration: none;
+	color:#333;
+	font-size: 25px;
+	position: relative;
+	left: 1%;
+}
+
+.linka{
+	border-radius:20px;
+	border: none;
+	position: relative;
+	left: 45%;
+	background-color: transparent;
+	padding-bottom: 5px;
+	/*background-color: #0a0;*/
+	/*color: #333;*/
+}
+.linka:hover{
+	color: #fff;
+	border-radius: 20px;
+	background-color: #080;
+	border: none;
+	/*text-decoration: none;*/
+}
+
+#menu{
+	 box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.15);
+	 max-width: 100%;
+	 position: relative;
+	 overflow-x: hidden;
+}
+#pag{
+	/*border: 1px solid #000;*/
+	position: absolute;
+	height: 100%;
+	width: 90%;
+	left: 5%;
+	top: 12%;
+	/*box-shadow: -5px 7px 5px rgba(50, 50, 50, 0.15);*/
+	border-radius: 10px;
+}
+
+
+#im{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	padding-bottom: 1%;
+	top: 1%;	
+}
+/*
+div.conteiner3{
+	position: relative;
+	margin-top: 10px;
+	border: 1px solid #000;
+	}*/
+
+
+.te{
+	text-align: center;
+}
+
+.lin{
+	margin-top: 10px;
+	color: #080;
+	text-decoration: none;
+	border: none;
+	background-color: transparent;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-size: 20px;
+	text-align: center;
+}
+.lin:hover{
+	text-decoration: none;
+	border-radius: 10px;
+	background-color: #080;
+	border: none;
+	color: #fff;
+}
+
+#m{
+	display: block;
+	margin-top: 0;
+}
+#n{
+	display: block;
+}
+#b{
+	display: block;
+}
+
+#v{
+	/*border: 1px solid #000;*/
+	padding-right:35%; 
+	padding-left:35%;
+}
